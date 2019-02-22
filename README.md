@@ -1,2 +1,2 @@
 # recipe-app-api
-Recipe app api source code
+A recipe API created using Python, Django, Postgres, Docker, and Travis CI
