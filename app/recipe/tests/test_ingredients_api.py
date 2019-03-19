@@ -12,6 +12,7 @@ from recipe.serializers import IngredientSerializer
 
 INGREDIENTS_URL = reverse('recipe:ingredient-list')
 
+
 class PublicIngredientsApiTests(TestCase):
     """Test the publicly available ingredients API"""
 
